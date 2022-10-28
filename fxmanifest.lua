@@ -10,3 +10,5 @@ client_script "client/cl_safetyroad.lua"
 server_script "server/sv_safetyroad.lua"
 
 shared_script "shared/config.lua"
+
+dependency "NativeUILua_Reloaded"
